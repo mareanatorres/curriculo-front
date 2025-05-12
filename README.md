@@ -1,6 +1,6 @@
-```
+# Portfólio 
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá, bem vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
@@ -14,4 +14,4 @@
 
 ### Mariana Torres Silva
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/mareanatorres/)
+### [Linkedin](https://www.linkedin.com/in/mareanatorres/)
