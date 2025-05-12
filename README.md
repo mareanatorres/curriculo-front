@@ -1,6 +1,6 @@
-# Portfólio 
+# Currículo 
 
-Olá, bem vindo ao meu projeto de portfólio.
+Olá, bem vindo ao meu projeto de Currículo.
 
 ## Ferramentas utilizadas:
 
