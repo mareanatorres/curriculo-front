@@ -1,1 +1,17 @@
-Projeto realizado para criar um curriculo Front-End da desenvolvedora Mariana Torres Silva.
+```
+
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Mariana Torres Silva
+
+### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/mareanatorres/)
